@@ -603,7 +603,7 @@
         <mxCell id="EEG-eo5akxx6eCDPJVpT-246" edge="1" parent="1" source="EEG-eo5akxx6eCDPJVpT-240" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="EEG-eo5akxx6eCDPJVpT-114">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EEG-eo5akxx6eCDPJVpT-240" parent="1" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="Relationship" vertex="1">
+        <mxCell id="EEG-eo5akxx6eCDPJVpT-240" parent="1" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="get" vertex="1">
           <mxGeometry height="60" width="120" x="1050" y="465" as="geometry" />
         </mxCell>
         <mxCell id="EEG-eo5akxx6eCDPJVpT-241" edge="1" parent="1" source="EEG-eo5akxx6eCDPJVpT-240" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.45;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" target="EEG-eo5akxx6eCDPJVpT-76">
